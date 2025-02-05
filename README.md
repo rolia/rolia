@@ -5,7 +5,7 @@
 
 ## 📌Sobre mi
 Soy egresada de la carrera de Ingeniería Informática y de Sistemas, con enfoque en Gestión de Proyectos de TI y Análisis de Datos. 
-Es facinante el poder de los datos y sus aplicaciones, empresas como Netflix lo usan para personalizar recomendaciones. Me encantaría formar parte de un equipo que desarrolle proyectos innovadores como ese. 🚀
+Es facinante el poder de los datos y sus aplicaciones, empresas como Netflix lo usan para personalizar recomendaciones. Me encantaría a futuro, formar parte de un equipo que desarrolle proyectos innovadores como ese. 🚀
 
 Actualmente estoy:
 - 🔍 Buscando mi primera experiencia como practicante. 
